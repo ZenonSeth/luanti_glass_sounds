@@ -1,0 +1,9 @@
+Sound credits. Both sources are CC0, so this is not legally required, but credited anyway:
+
+- "Glass Bottle Taps" by imnotdubMass - https://freesound.org/people/imnotdubMass/sounds/679983/
+  Source for footstep sound variants (cut into segments, volume normalized)
+
+- "Glass breaks 3 variations Léo 06.mp3" by TRP - https://freesound.org/people/TRP/sounds/574882/
+  Source for break sound variants (cut into segments, volume normalized)
+
+License: CC0 (Creative Commons Zero / Public Domain)
